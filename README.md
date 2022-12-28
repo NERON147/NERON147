@@ -1,4 +1,4 @@
-[![Header](https://github.com/NERON147/NERON147/blob/main/assets/test-typing.gif)]
+![Header](https://github.com/NERON147/NERON147/blob/main/assets/test-typing%20(4).gif)
 
 
 Hi! I'am FrontEnd Developer, from SPB!🌆

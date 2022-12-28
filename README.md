@@ -1,7 +1,7 @@
 ![Header](https://github.com/NERON147/NERON147/blob/main/assets/matrix-521dd-gifs-81db7-renkli-dcc3e-duvar-a47c1-duvar-bd4a3-gifler-1c985-e%C4%9Fitim.gif)
 
 
-# <center>Hi! I'am Begginer FrontEnd Developer!✌️</center>
+# <center>Hi! I'am Beginner FrontEnd Developer!✌️</center>
 
 
 # My Stack
